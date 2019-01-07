@@ -1,0 +1,10 @@
+D:\The British College\Assessment\ASE\Paint\Paint\bin\Debug\Paint.exe.config
+D:\The British College\Assessment\ASE\Paint\Paint\bin\Debug\Paint.exe
+D:\The British College\Assessment\ASE\Paint\Paint\bin\Debug\Paint.pdb
+D:\The British College\Assessment\ASE\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\The British College\Assessment\ASE\Paint\Paint\obj\Debug\Paint.Paint.resources
+D:\The British College\Assessment\ASE\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\The British College\Assessment\ASE\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\The British College\Assessment\ASE\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\The British College\Assessment\ASE\Paint\Paint\obj\Debug\Paint.exe
+D:\The British College\Assessment\ASE\Paint\Paint\obj\Debug\Paint.pdb
