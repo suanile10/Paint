@@ -7,14 +7,40 @@ using System.Threading.Tasks;
 
 namespace Paint
 {
-    class ARectangle : InterfaceShape
+    [Serializable]
+    public class ARectangle : InterfaceShape
     {
-        public void draw(Graphics g)
+        public int x { get; set; }
+        public int y { get; set; }
+        public int width { get; set; }
+        public int height { get; set; }
+        public bool isFilled { get; set; }
+        public Color color { get; set; }
+
+        public void Draw(Graphics g)
         {
-            Console.WriteLine("Inside Rectangle::draw() method.");
-            Rectangle r1 = new Rectangle(50, 50, 50, 50);
-            Pen blackpen = new Pen(Color.Black, 5);
-            g.DrawRectangle(blackpen, r1);
+            if (isFilled)
+            {
+                Brush br = new SolidBrush(color);
+                g.FillRectangle(br, new Rectangle(x, y, width, height));
+                br.Dispose();
+            }
+            else
+            {
+                Pen pen = new Pen(color, 1);
+                g.DrawRectangle(pen, new Rectangle(x, y, width, height));
+                pen.Dispose();
+            }
+        }
+
+        public void SetParameter(int x, int y, int width, int height, Color color, bool isFilled, string text, Point pointX, Point pointY)
+        {
+            this.x = x;
+            this.y = y;
+            this.width = width;
+            this.height = height;
+            this.color = color;
+            this.isFilled = isFilled;
         }
     }
 }

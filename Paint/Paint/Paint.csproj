@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="ACircle.cs" />
     <Compile Include="ADraw.cs" />
+    <Compile Include="ASquare.cs" />
     <Compile Include="draw.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -91,7 +92,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

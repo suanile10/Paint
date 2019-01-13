@@ -7,8 +7,9 @@ using System.Threading.Tasks;
 
 namespace Paint
 {
-    interface InterfaceShape
+    public interface InterfaceShape
     {
-         void draw(Graphics g);
+        void Draw(Graphics g);
+        void SetParameter(int x, int y, int width, int height, Color color, bool isFilled, string text, Point pointX, Point pointY);
     }
 }
