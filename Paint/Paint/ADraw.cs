@@ -1,14 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Paint
 {
-    interface InterfaceShape
+    class ADraw
     {
-         void draw(Graphics g);
+        String syntax;
+
+        public ADraw(String command)
+        {
+            this.syntax = command;
+        }
+
     }
 }

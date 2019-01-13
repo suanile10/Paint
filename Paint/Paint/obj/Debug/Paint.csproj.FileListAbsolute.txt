@@ -8,3 +8,14 @@ D:\The British College\Assessment\ASE\Paint\Paint\obj\Debug\Paint.csproj.Generat
 D:\The British College\Assessment\ASE\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
 D:\The British College\Assessment\ASE\Paint\Paint\obj\Debug\Paint.exe
 D:\The British College\Assessment\ASE\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\sunil\OneDrive\Documents\GitHub\Paint\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\sunil\OneDrive\Documents\GitHub\Paint\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\sunil\OneDrive\Documents\GitHub\Paint\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\sunil\OneDrive\Documents\GitHub\Paint\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\sunil\OneDrive\Documents\GitHub\Paint\Paint\Paint\obj\Debug\Paint.Paint.resources
+C:\Users\sunil\OneDrive\Documents\GitHub\Paint\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\sunil\OneDrive\Documents\GitHub\Paint\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\sunil\OneDrive\Documents\GitHub\Paint\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\sunil\OneDrive\Documents\GitHub\Paint\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\sunil\OneDrive\Documents\GitHub\Paint\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\sunil\OneDrive\Documents\GitHub\Paint\Paint\Paint\obj\Debug\Paint.draw.resources
